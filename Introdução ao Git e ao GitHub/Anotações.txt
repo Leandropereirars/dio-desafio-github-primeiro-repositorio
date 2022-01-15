@@ -1,0 +1,10 @@
+Link para download do Git: https://git-scm.com/downloads
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Para usar o Git Bash e subir as alterações para o repositório (No comando não use o " somente entre as mensagens no commit)
+1 - Na pasta do projeto na máquina local, clique com o botão direito do mouse e vá em Git Bash Here
+2 - Os comando para verificar as alterações na pasta execute o comando "git status", se tiver fica em vermelho
+3 - Para poder gerar uma versão de release local, execute o comando "git add ."
+4 - Para salvar essa versão "git commit -m "Mensagem que quiser da versão" "
+5 - Para sbuir pro repositório o comando "git push origin main" (se for no main principal)
+
